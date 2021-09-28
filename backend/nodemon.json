@@ -1,0 +1,9 @@
+{
+    "env":{
+        "DB_USER" :"mayank123",
+        "DB_PASSWORD":"Mayank123",
+        "DB_NAME":"mern-product",
+        "GOOGLE_API_KEY":"AIzaSyDH1NIOp2mh5TGnCQmop0sS18lAYdqZfRE",
+        "JWT_KEY":"supersecret_dont_share"
+    }
+}
